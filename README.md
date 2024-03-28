@@ -44,3 +44,6 @@ This project is licensed under the MIT License.
 
 
 Feel free to customize this template according to your project's specific details, such as adding more detailed usage instructions, descriptions of the machine learning models used, or any other relevant information. Additionally, don't forget to include the `requirements.txt` file if you have specific Python dependencies for your project.
+
+Screenshot
+<img width="1433" alt="Screenshot 2024-03-29 at 12 04 40 AM" src="https://github.com/Nafeessidd1/-Multiple-disease-prediction/assets/106441992/ffc2d321-d442-49fb-8a2f-d67286cef0e4">

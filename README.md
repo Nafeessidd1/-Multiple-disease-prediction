@@ -26,7 +26,7 @@ Run the Streamlit web application:
 
 bash
 streamlit run app.py
-Access the application in your web browser at http://localhost:8501.
+Access the application in your web browser at http://localhost:8502/.
 
 Dependencies
 Python 3.x
